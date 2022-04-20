@@ -1,3 +1,9 @@
+---
+# front matter tells Jekyll to process Liquid
+title: Anatolii (Tola) Kokoza
+show_navbar: true
+---
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -8,7 +14,7 @@
     <meta name="description" content="Personal page">
     <meta name="author" content="Anatolii Vladimirovich Kokoza">
 
-    <title>Anatolii (Tola) Kokoza</title>
+    <title>{{ page.title }}</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -31,7 +37,7 @@
   </head>
 
   <body>
-
+    {% if page.show_navbar %}
       <!--Navigation bar-->
       <nav class="navbar navbar-inverse navbar-fixed-top">
         <div class="container">
@@ -65,7 +71,7 @@
           </div>
         </div>
       </nav>
-
+    {% endif %} 
 
     <div class="container">
 
