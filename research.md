@@ -3,8 +3,8 @@ layout: default
 page: Research
 ---
 
-<p><h3><b>Working Papers</b></h3>
-<a href="papers/Kokoza_JMP_October2016.pdf">Spatially Differentiated Renewable Energy Subsidies: What Is There to Gain?</a><br>Job Market Paper<br>
+<p><h3><b>Work in Progress</b></h3>
+Spatially Differentiated Renewable Energy Subsidies: What Is There to Gain?
 
 
 <h3><b>Publications</b></h3>
