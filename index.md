@@ -15,6 +15,6 @@ Phone: <a href="tel:1-951-905-0647">(951) 905-0647</a><br><br>
 Energy and environmental economics, health economics, transportation economics, industrial organization<br><br>
 
 <h3><b>Recent Publications</b></h3>
-<a href="https://doi.org/10.1016/j.jpubeco.2022.104601">Natural gas flaring, respiratory health, and distributional effects</a><br />Wesley Blundell and Anatolii Kokoza. 2021. <b>Journal of Public Economics</b>.<br><br>
+<a href="https://doi.org/10.1016/j.jpubeco.2022.104601">Natural gas flaring, respiratory health, and distributional effects</a><br />Wesley Blundell and Anatolii Kokoza. 2022. <b>Journal of Public Economics</b>.<br><br>
 <a href="http://dx.doi.org/10.1016/j.ecotra.2016.11.001">Equilibrium traffic dynamics in a bathtub model: A special case</a><br>Richard Arnott, Anatolii Kokoza and Mehdi Naji. 2016. <b>Economics of Transportation</b>.<br><br>
 </p>
