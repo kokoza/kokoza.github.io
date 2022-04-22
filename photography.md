@@ -6,14 +6,14 @@ page: Photography
 <!-- Wrapper -->
 <div id="wrapper">
     <!-- Header -->
-    <header id="header">
+<!--     <header id="header">
         <h1><a href="index.html"><strong>{{ site.header.title }}</strong> {{ site.header.subtitle }}</a></h1>
         <nav>
             <ul>
                 <li><a href="#footer" class="icon fa-info-circle">About</a></li>
             </ul>
         </nav>
-    </header>
+    </header> -->
     <!-- Main -->
     <div id="main">
         {%- for image in site.static_files -%}
@@ -42,7 +42,7 @@ page: Photography
     </div>
 
     <!-- Footer -->
-    <footer id="footer" class="panel">
+<!--     <footer id="footer" class="panel">
         <div class="inner split">
             <div>
                 <section>
@@ -102,5 +102,5 @@ page: Photography
                 </p>
             </div>
         </div>
-    </footer>
+    </footer> -->
 </div>
