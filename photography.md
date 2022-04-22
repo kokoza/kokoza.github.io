@@ -5,7 +5,7 @@ page: Photography
 
 <!-- Wrapper -->
 <div id="wrapper">
-    <!-- Header -->
+<!-- Header -->
 <!--     <header id="header">
         <h1><a href="index.html"><strong>{{ site.header.title }}</strong> {{ site.header.subtitle }}</a></h1>
         <nav>
@@ -41,7 +41,7 @@ page: Photography
         {%- endfor -%}
     </div>
 
-    <!-- Footer -->
+<!-- Footer -->
 <!--     <footer id="footer" class="panel">
         <div class="inner split">
             <div>
