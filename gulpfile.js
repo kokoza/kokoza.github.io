@@ -10,7 +10,7 @@ var del = require('del');
 function gulpResize() {
     return gulp.src('images/*.*')
         .pipe(imageResize({
-            width: 1024,
+            width: 1600,
             imageMagick: true
         }))
         .pipe(gulp.dest('images/fulls'))
@@ -52,6 +52,6 @@ function minifyJS() {
 gulp.task(minifyJS);
 
 // default task
-gulp.task('start', gulp.series(gulpResize, gulpDelResize));
+gulp.task('default', gulp.series(gulpResize, gulpDelResize));
 // scss compile task
 gulp.task('compile-sass', gulp.series(gulpSass, minifyJS));
